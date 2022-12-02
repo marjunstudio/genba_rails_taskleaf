@@ -1,0 +1,11 @@
+--2022-12-02 20:50:18--  https://raw.githubusercontent.com/svenfuchs/rails-i18n/master/rails/locale/ja.yml
+raw.githubusercontent.com (raw.githubusercontent.com) をDNSに問いあわせています... 2606:50c0:8002::154, 2606:50c0:8001::154, 2606:50c0:8003::154, ...
+raw.githubusercontent.com (raw.githubusercontent.com)|2606:50c0:8002::154|:443 に接続しています... 接続しました。
+HTTP による接続要求を送信しました、応答を待っています... 200 OK
+長さ: 4610 (4.5K) [text/plain]
+`ja.yml' に保存中
+
+     0K ....                                                  100% 9.45M=0s
+
+2022-12-02 20:50:18 (9.45 MB/s) - `ja.yml' へ保存完了 [4610/4610]
+
